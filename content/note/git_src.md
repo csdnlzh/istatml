@@ -7,7 +7,7 @@ Date: 2016-01-17 21:54
     Date:   Thu Apr 7 15:13:13 2005 -0700
 
 ### 1. read-cache.c
-<img src="image/blog_image/note/git_verify_hdr.png" width="550" height="530">
+<img src="./image/note/git_verify_hdr.png" width="550" height="530">
     
 ```
 struct cache_header {
