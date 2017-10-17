@@ -3,7 +3,7 @@ Date: 2017-09-03 13:00
 
 #### Distributed systems for fun and profit
 
-[book](http://book.mixu.net/distsys/intro.html)
+[online book](http://book.mixu.net/distsys/intro.html)
 
 ## 基本概念
 

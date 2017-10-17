@@ -33,7 +33,7 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-THEME = "new-bootstrap2"
+THEME = "/home/lizh/blog/pelican-themes/new-bootstrap2"
 DUOSHUO_SITENAME = "istatml.duoshuo.com"
 GOOGLE_ANALYTICS="UA-9161054-2"
 
